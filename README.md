@@ -1,7 +1,8 @@
 # SaaS-MyStar
 
 ## Overview
-SaaS-MyStar is a multi-tenant School Management System API built with C# following the principles of Clean Architecture. This API leverages the AuthPermissions.AspNetCore library to facilitate SaaS capabilities, specifically multi-tenancy, allowing different schools to operate within the same application instance while maintaining isolation of data.
+SaaS-MyStar is a multi-tenant School Management System API built with C# following the principles of Clean Architecture. This API leverages the [AuthPermissions.AspNetCore](https://github.com/JonPSmith/AuthPermissions.AspNetCore) library to facilitate SaaS capabilities, specifically multi-tenancy, allowing different schools to operate within the same application instance while maintaining isolation of data.
+
 
 ## Features
 - **Multi-Tenancy:** Built-in support for handling multiple tenants (schools) using the AuthPermissions.AspNetCore library.
