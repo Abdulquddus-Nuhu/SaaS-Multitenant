@@ -53,5 +53,5 @@ git clone https://github.com/Abdulquddus-Nuhu/SaaS-MyStar.git
 6. Access the Swagger UI to interact with the API by navigating to:
    https://localhost:5001/swagger
 
-Usage
+7.Usage:
 After starting the API, you can use any API client like Postman to send requests to the endpoints defined under the controllers. Alternatively, the Swagger UI provides a web-based interface to directly interact with the API.
